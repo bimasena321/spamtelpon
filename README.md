@@ -1,0 +1,2 @@
+# spamtelpon
+telpon.sh
