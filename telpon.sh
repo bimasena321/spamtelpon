@@ -1,5 +1,5 @@
 clear
-toilet -f bigmono9 -F gay GCO SPAM
+toilet -f bigmono9 -F gay B1M4 S3N4
 sleep 1
 echo "\033[38;1m ------------------------------------------------------------------"|lolcat
 echo "\033[31;1m #Geeky Cyber Organization"
@@ -99,6 +99,6 @@ then
 clear
 echo "\033[39;1m"
 toilet -f mono12 -F metal "KELUAR"
-echo "semoga hari mu menyenangkan"
+echo "Thank you for using this tool"
 fi
 
