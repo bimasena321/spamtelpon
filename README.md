@@ -3,7 +3,7 @@
 # ls
 # cd spamtelpon
 # chmod 777 telpon.sh
-# ./telpon.sh
+ ./telpon.sh
 
 
 
